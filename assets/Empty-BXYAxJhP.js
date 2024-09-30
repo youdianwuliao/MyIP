@@ -1,0 +1,1 @@
+import{_ as e}from"./index-BxdBlEeC.js";import{e as t,b as o}from"./vendor-CvqS6pG7.js";const n={name:"EmptyComponent"};function r(c,p,s,a,m,_){return o(),t("div")}const d=e(n,[["render",r]]);export{d as default};
